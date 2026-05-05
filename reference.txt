@@ -3,3 +3,11 @@ https://github.com/sushiwushi/bug-bounty-dorks/blob/master/README.md
 https://gist.github.com/R0X4R/81e6c50c091a20b060afe5c259b58cfa
 
 https://medium.com/@sam5epi0l/public-bug-bounty-and-vulnerability-disclosure-programs-with-less-competition-f7ceefe26b8c
+
+Cheat Sheet for Payloads:
+Command Injections:
+https://hackersonlineclub.com/command-injection-cheatsheet/
+https://hackersonlineclub.com/command-injection-cheatsheet/
+
+Ferox Buster Referernce:
+https://github.com/epi052/feroxbuster/blob/main/README.md
